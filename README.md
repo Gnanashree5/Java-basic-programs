@@ -25,14 +25,15 @@ Welcome to my **Java Basics Repository**! 🖥️ This is a collection of 10 beg
 7. **✍️ Sum of Digits**
    - Find the sum of all digits in a given number.
 
-8. **🔍 Search Element in Array**
-   - Search for an element in an array using linear search.
+8. **✖️ Multiplication Table**  
+   - Generate the multiplication table for any given number.  
 
-9. **🧮 Arithmetic Calculator**
-   - Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+9. **🔢 Check Even or Odd**  
+   - Determine whether a number is even or odd.  
 
-10. **📊 Sorting an Array**
-    - Sort an array of integers in ascending order using the bubble sort algorithm.
+10. **🔄 Swap Two Numbers**  
+   - Swap the values of two variables without using a third variable.  
+
 
 ## 🎯 How to Run the Programs
 
